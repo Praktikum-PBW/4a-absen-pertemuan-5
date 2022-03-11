@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 5
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Alifa Maha Rizka] - [2010631170047]
 - [Adrian Aufarrizqi] - [2010631170042]
 - Dede Fitriyani - 2010631170007
 - [Chintya Ana Tasya] - [2010631170005]
