@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 5
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Alfian Vito Anggoro] - [2010631170044]
 - [Andriani Nurian] - [2010631170002]
 - [Afifah Nur Sallamah] - [2010631170001]
 - [Alifa Maha Rizka] - [2010631170047]
